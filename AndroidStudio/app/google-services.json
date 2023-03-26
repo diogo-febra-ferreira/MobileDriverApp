@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "469904650400",
+    "firebase_url": "https://projetotaes-b44ca.firebase.io.com",
+    "project_id": "projetotaes-b44ca",
+    "storage_bucket": "projetotaes-b44ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469904650400:android:bbe3dba84f02fcaf9a19c5",
+        "android_client_info": {
+          "package_name": "pt.pleiria.estg.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469904650400-fp99s7skh77arpprrh5arg6ltt9vfisu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATsmlGDvg3-21QbvxyxfFJrwOUEEns2bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469904650400-fp99s7skh77arpprrh5arg6ltt9vfisu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

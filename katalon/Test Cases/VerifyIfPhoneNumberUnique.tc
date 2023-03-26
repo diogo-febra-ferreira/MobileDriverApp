@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyIfPhoneNumberUnique</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c51bd1b0-a401-404a-88f6-e133a037f9e2</testCaseGuid>
+</TestCaseEntity>

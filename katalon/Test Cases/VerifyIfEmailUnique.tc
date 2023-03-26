@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyIfEmailUnique</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8ed638a-e6b3-4151-b8b5-c0afcf79bec0</testCaseGuid>
+</TestCaseEntity>

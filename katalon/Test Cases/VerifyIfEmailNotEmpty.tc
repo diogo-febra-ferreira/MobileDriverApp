@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyIfEmailNotEmpty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e91b1135-4efa-4f4c-b458-f2bf6d864ea8</testCaseGuid>
+</TestCaseEntity>

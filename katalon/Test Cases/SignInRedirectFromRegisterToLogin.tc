@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SignInRedirectFromRegisterToLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e956948b-15df-4ada-a313-7416a766a8a0</testCaseGuid>
+</TestCaseEntity>
